@@ -38,12 +38,15 @@ It entails an Admin dashboard which has:
 
 ## Demo
 
-The preview of this app can be found at [KilimoERP demo]()
+The preview of this app can be found at [KilimoERP demo](http://kilimo-erp.herokuapp.com)
+
+`email: test@gmail.com`
+
+`password: qwerty`
 
 ### Credits
 
-1. [Puinkish - Gentellela Alella!]()
-2. [Owen Jubilant - Laravel Gentellela Boilerplate]()
+1. [Owen Jubilant - Laravel Gentellela Boilerplate](https://github.com/Owen-oj/laravel-gentelella)
 
 ### Authors
 
