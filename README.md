@@ -1,6 +1,6 @@
 # KilimoERP
 
-## Badges
+![method-draw-image](https://user-images.githubusercontent.com/18320823/52996277-25461280-342e-11e9-9095-e0d57a664144.png)
 
 ## Background Info
 
@@ -8,7 +8,7 @@ Farming is a very lucrative business. However, most of the farmers lack the most
 
 KilimoERP is a web based ERP made for managing farm enterprises on the go. KilimoERP has been tailored to cover the basic day-to-day operations of a farm.
 
-KilimoERP is a Farm tailored ERP built on top of [Laravel Gentellela Boilerplate]()
+KilimoERP is a Farm tailored ERP built on top of [Laravel Gentellela Boilerplate](https://github.com/Owen-oj/laravel-gentelella)
 
 ## Features
 
