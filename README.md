@@ -1,6 +1,8 @@
 # KilimoERP
 
-![method-draw-image](https://user-images.githubusercontent.com/18320823/52996277-25461280-342e-11e9-9095-e0d57a664144.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18320823/52996277-25461280-342e-11e9-9095-e0d57a664144.png" />
+</p>
 
 ## Background Info
 
